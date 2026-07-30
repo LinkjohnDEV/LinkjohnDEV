@@ -1,16 +1,37 @@
-## Hi there 👋
+### Olá 👋
 
-<!--
-**LinkjohnDEV/LinkjohnDEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Trabalho com infraestrutura há mais de 15 anos, quase todo esse tempo dentro
+de provedor de internet. Montei um ISP do zero e cuido dele funcionar todo
+dia — da fibra na rua até o servidor no rack.
 
-Here are some ideas to get you started:
+Com o tempo parei de só operar e passei a automatizar. Hoje escrevo as
+ferramentas que uso.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### 🌐 Redes e provedor
+`MikroTik RouterOS` `PPPoE/IPoE` `BGP` `CGNAT` `IPv6 nativo (DHCPv6-PD)`
+`VLAN 802.1Q` `QoS` `Firewall/NAT` `OLT GPON` `FTTH` `Rede neutra`
+
+#### 🖥️ Servidores e virtualização
+`Proxmox VE` `Linux (Debian/Ubuntu)` `Docker` `PostgreSQL` `Nginx`
+`systemd` `DNS/DHCP` `Backup`
+
+#### 🐍 Automação
+`Python` `Bash` `APIs REST` `Git`
+
+Painel próprio que gerencia toda a frota de servidores, coleta métricas,
+roda auditoria de segurança e dispara alerta quando algo sai do lugar.
+
+#### 🛡️ Confiabilidade
+Failover automático multi-WAN com verificação em várias camadas ·
+Failover de DNS via API · Hardening de borda · Anti-DDoS · GeoBlocking
+
+#### ⚡ Infraestrutura física
+Rack, distribuição elétrica, inversor e banco de baterias — dimensionamento
+de carga e autonomia.
+
+---
+
+📍 São Paulo, Brasil
+💼 [LinkedIn](https://linkedin.com/in/johnata-nascimento)
