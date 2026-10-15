@@ -107,22 +107,23 @@
 
 | Projeto | O que faz / O que resolve | Estrelas |
 | :--- | :--- | :---: |
+| [**zorionhost**](https://github.com/LinkjohnDEV/zorionhost) | Infraestrutura e plataforma de hospedagem cloud: VPS e servidores dedicados com proteção Anti-DDoS e storage NVMe de alto desempenho. | ![Estrelas](https://img.shields.io/github/stars/LinkjohnDEV/zorionhost?style=flat-square&color=critical) |
 | [**stack-midia**](https://github.com/LinkjohnDEV/stack-midia) | Estrutura completa e automatizada de streaming, processamento e entrega de mídia. | ![Estrelas](https://img.shields.io/github/stars/LinkjohnDEV/stack-midia?style=flat-square&color=critical) |
-| [**Vizionprocam**](https://github.com/LinkjohnDEV/Vizionprocam) | Plataforma de videomonitoramento, captura e processamento inteligente de câmeras RTSP. | ![Estrelas](https://img.shields.io/github/stars/LinkjohnDEV/Vizionprocam?style=flat-square&color=critical) |
-| [**evolutionapi**](https://github.com/LinkjohnDEV/evolutionapi) | Servidor de mensageria WhatsApp multicanal de alta performance para integrações e robôs. | ![Estrelas](https://img.shields.io/github/stars/LinkjohnDEV/evolutionapi?style=flat-square&color=critical) |
+| [**Vizionprocam**](https://github.com/LinkjohnDEV/Vizionprocam) | Plataforma de videomonitoramento, captura e processamento inteligente de câmaras RTSP. | ![Estrelas](https://img.shields.io/github/stars/LinkjohnDEV/Vizionprocam?style=flat-square&color=critical) |
+| [**evolutionapi**](https://github.com/LinkjohnDEV/evolutionapi) | Servidor de mensajaria WhatsApp multicanal de alto desempenho para integrações e robôs. | ![Estrelas](https://img.shields.io/github/stars/LinkjohnDEV/evolutionapi?style=flat-square&color=critical) |
 | [**lauren**](https://github.com/LinkjohnDEV/lauren) | IA para servidor VPS: terminal, diagnóstico e comandos direto pelo navegador em português. | ![Estrelas](https://img.shields.io/github/stars/LinkjohnDEV/lauren?style=flat-square&color=critical) |
 | [**HuberChat**](https://github.com/LinkjohnDEV/huberchat) | Plataforma SaaS multi-inquilino de atendimento com IA para WhatsApp integrada a ERPs e CRMs. | ![Estrelas](https://img.shields.io/github/stars/LinkjohnDEV/huberchat?style=flat-square&color=critical) |
-| [**mdm-titan**](https://github.com/LinkjohnDEV/mdm-titan) | Sistema em Python para gestão remota, provisionamento e monitoramento de dispositivos. | ![Estrelas](https://img.shields.io/github/stars/LinkjohnDEV/mdm-titan?style=flat-square&color=critical) |
+| [**mdm-titan**](https://github.com/LinkjohnDEV/mdm-titan) | Sistema em Python para gestão remota, aprovisionamento e monitorização de dispositivos. | ![Estrelas](https://img.shields.io/github/stars/LinkjohnDEV/mdm-titan?style=flat-square&color=critical) |
 
 <br/>
 
 ### ⚡ Especialidades & O que eu resolvo
 
 - **Borda de Provedor & Roteamento:** MikroTik RouterOS, PPPoE/IPoE, OSPF, BGP, CGNAT e IPv6 nativo com DHCPv6-PD (`/56`).
-- **Rede Óptica FTTH:** OLTs GPON/EPON, splitters, CTOs, fusão e análise óptica com certificação de enlaces (`dBm/SFP`).
+- **Rede Óptica FTTH:** OLTs GPON/EPON, splitters, CTOs, fusão e análise óptica com certificação de ligações (`dBm/SFP`).
 - **Alta Disponibilidade & Confiabilidade:** Failover multi-WAN, failover de DNS via API, mitigação Anti-DDoS e GeoBlocking em L3/L4.
 - **Observabilidade Proativa:** Zabbix, Grafana, Prometheus e VictoriaMetrics — alertas automáticos no WhatsApp e Discord.
-- **Automação & Nuvem:** Rotinas assíncronas (Python/Bash), APIs em FastAPI/Node.js, contêineres Docker e virtualização Proxmox VE.
+- **Automação & Nuvem:** Rotinas assíncronas (Python/Bash), APIs em FastAPI/Node.js, contentores Docker e virtualização Proxmox VE.
 
 <br/>
 
