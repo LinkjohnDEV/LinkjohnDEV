@@ -17,7 +17,8 @@
 
 <!-- Badges de IA -->
 <p align="center">
-  <img src="https://img.shields.io/badge/ChatGPT-Pro-74aa9c?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lauren-Ultra-FCC624?style=flat-square&logo=openai&logoColor=white" />
+   <img src="https://img.shields.io/badge/ChatGPT-Pro-74aa9c?style=flat-square&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude-Max_20x-d97757?style=flat-square&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/Grok-Super-black?style=flat-square&logo=x&logoColor=white" />
   <img src="https://img.shields.io/badge/Gemini-Pro-8E75C4?style=flat-square&logo=googlegemini&logoColor=white" />
